@@ -1,0 +1,23 @@
+{
+  "name": "supervisely-to-darknet-dataset-converter",
+  "version": "1.0.0",
+  "description": "converts your supervisely training dataset to darknet training dataset",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "lodash": "^4.17.11",
+    "recursive-readdir": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "darknet",
+    "dataset",
+    "supervisely",
+    "annotator"
+  ],
+  "author": "Jason Talon",
+  "license": "ISC"
+}
