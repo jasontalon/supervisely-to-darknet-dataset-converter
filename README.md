@@ -35,8 +35,8 @@ $ node index
 	- data/obj/*.jpg 	- training images 	(i.e., bag0001.jpg)
 	- data/obj/*.txt 	- annotations		(i.e., bag0001.txt)
 	- data/train.txt	- lists of images for training
-	- obj.names			- lists of class names for training
-	- obj.data			- contains the number of classes and directory info.
+	- data/obj.names	- lists of class names for training
+	- data/obj.data		- contains the number of classes and directory info.
 
 ## Notes
 Generated dataset layout for Darknet is based on AlexeyAB [guide](https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects)
