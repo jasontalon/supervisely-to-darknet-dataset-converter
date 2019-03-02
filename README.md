@@ -31,7 +31,7 @@ $ npm install
 ```sh
 $ node index
 ```
-4. Check the *output* directory under your repo directory. This will generate the following:
+4. Once done, the generated output will be saved to the *output* folder under your repo directory.
 	- data/obj/*.jpg 	- training images 	(i.e., bag0001.jpg)
 	- data/obj/*.txt 	- annotations		(i.e., bag0001.txt)
 	- data/train.txt	- lists of images for training
